@@ -1,0 +1,27 @@
+$accent: #e71212;;
+$default: #fdd661;
+//$bg: #f6f6f6;
+
+%robotoCondensed-400 {
+  font-family: "RobotoCondensed-Regular", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+%robotoCondensed-700 {
+  font-family: "RobotoCondensed-Bold", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+%btn {
+  font-family: Roboto Condensed, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #ffffff;
+  border: none;
+  background: linear-gradient(180deg, #fe2929 0%, #d80303 100%);
+  border-radius: 3px;
+  padding: 15px 35px;
+  
+}
